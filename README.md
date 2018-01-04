@@ -1,0 +1,1 @@
+# Clickity-react-app
